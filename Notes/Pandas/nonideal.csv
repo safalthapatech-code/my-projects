@@ -1,0 +1,11 @@
+day,temperature,windspeed,event
+Mon,25.0,10.0,Sunny
+Tue,27.0,,Rainy
+Wed,,12.0,
+Thu,30.0,15.0,Sunny
+Fri,28.0,,Cloudy
+Sat,,8.0,Rainy
+Sun,26.0,9.0,
+Mon2,29.0,,Sunny
+Tue2,,11.0,
+Wed2,27.0,,Cloudy
